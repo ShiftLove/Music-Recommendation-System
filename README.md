@@ -1,2 +1,1 @@
-# Alx-Software-Engineering-Start
-Begining
+My first try. Subject to improvements
